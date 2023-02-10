@@ -1,3 +1,3 @@
-# Projeto calculadora com while na linguagem Python!
+# Projeto calculadora com while!
 
-### Um simples programar de uma calculadora:
+### Um simples programar de uma calculadora feito em Python.
